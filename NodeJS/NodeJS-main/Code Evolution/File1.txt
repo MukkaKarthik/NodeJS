@@ -1,0 +1,2 @@
+This is a sample file about Javascript Node packaging manager. 
+This file contains nothing useful . Just read this stuff.

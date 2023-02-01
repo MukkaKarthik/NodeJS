@@ -1,0 +1,1 @@
+This is an input file . This file should be read into output.txt using pipes
